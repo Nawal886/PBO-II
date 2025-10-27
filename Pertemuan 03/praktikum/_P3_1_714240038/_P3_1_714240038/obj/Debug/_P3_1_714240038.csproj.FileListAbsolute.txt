@@ -1,0 +1,18 @@
+C:\Users\Acer\source\repos\_P3_1_714240038\_P3_1_714240038\bin\Debug\_P3_1_714240038.exe.config
+C:\Users\Acer\source\repos\_P3_1_714240038\_P3_1_714240038\bin\Debug\_P3_1_714240038.exe
+C:\Users\Acer\source\repos\_P3_1_714240038\_P3_1_714240038\bin\Debug\_P3_1_714240038.pdb
+C:\Users\Acer\source\repos\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.exe
+C:\Users\Acer\source\repos\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.pdb
+C:\Users\Acer\source\repos\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.exe.config
+C:\Users\Acer\OneDrive\Documents\714240038\Semester 3\New folder\source\repos\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Documents\714240038\Semester 3\New folder\source\repos\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.exe.config
+C:\Users\Acer\OneDrive\Documents\714240038\Semester 3\New folder\source\repos\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documents\714240038\Semester 3\New folder\source\repos\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.exe
+C:\Users\Acer\OneDrive\Documents\714240038\Semester 3\New folder\source\repos\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.pdb
+C:\Pertemuan 03\praktikum\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.csproj.AssemblyReference.cache
+C:\Pertemuan 03\praktikum\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.exe.config
+C:\Pertemuan 03\praktikum\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.csproj.CoreCompileInputs.cache
+C:\Pertemuan 03\praktikum\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.exe
+C:\Pertemuan 03\praktikum\_P3_1_714240038\_P3_1_714240038\obj\Debug\_P3_1_714240038.pdb
