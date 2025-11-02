@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Pertemuan 03\\praktikum\\_P3_1_714240038\\",
+  "WorkspaceRootPath": "C:\\Users\\Acer\\PBO-II\\Pertemuan 03\\praktikum\\_P3_1_714240038\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\AppData\\Local\\Temp\\.vsdbgsrc\\fef08beecbf2e42d888a2abe171a91c3dcb9461b177f7b51b7da764e8de23076\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -23,10 +23,10 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\AppData\\Local\\Temp\\.vsdbgsrc\\fef08beecbf2e42d888a2abe171a91c3dcb9461b177f7b51b7da764e8de23076\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Acer\\AppData\\Local\\Temp\\.vsdbgsrc\\fef08beecbf2e42d888a2abe171a91c3dcb9461b177f7b51b7da764e8de23076\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fef08beecbf2e42d888a2abe171a91c3dcb9461b177f7b51b7da764e8de23076\\Program.cs",
               "ToolTip": "C:\\Users\\Acer\\AppData\\Local\\Temp\\.vsdbgsrc\\fef08beecbf2e42d888a2abe171a91c3dcb9461b177f7b51b7da764e8de23076\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\Users\\Acer\\AppData\\Local\\Temp\\.vsdbgsrc\\fef08beecbf2e42d888a2abe171a91c3dcb9461b177f7b51b7da764e8de23076\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAEAAAAAQAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fef08beecbf2e42d888a2abe171a91c3dcb9461b177f7b51b7da764e8de23076\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAEAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T09:28:33.993Z",
               "EditorCaption": ""
@@ -36,9 +36,9 @@
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\714240038\\Semester 3\\New folder\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Acer\\OneDrive\\Documents\\714240038\\Semester 3\\New folder\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Documents\\714240038\\Semester 3\\New folder\\Program.cs",
               "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\714240038\\Semester 3\\New folder\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\Users\\Acer\\OneDrive\\Documents\\714240038\\Semester 3\\New folder\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Documents\\714240038\\Semester 3\\New folder\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T08:47:06.497Z"
             }
