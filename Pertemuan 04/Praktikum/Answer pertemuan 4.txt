@@ -1,0 +1,16 @@
+Bagian I
+
+14.Karena ProductTest_714240838 bukan turunan dari Product_714240838, maka akses ke myType dianggap tidak diizinkan, sehingga muncul error
+
+19.Karena myType bersifat private (tidak bisa diakses langsung)
+
+24.karena baris myProduct.MyType = "DVD"; mengubah nilai variabel myType menjadi "DVD",
+
+Bagian II
+
+8.Karena method display() di class Book_714240038 belum mengakses getType() dan getTitle().
+
+12.Karena method display() di class Book_714240038 sudah dioverride untuk menampilkan nilai dari getType() dan getTitle(). Jadi, output muncul sesuai data objeknya.
+
+19.Karena Product_714240038 adalah abstract class, tidak bisa dibuat objek langsung.
+product2 harus berupa objek dari class turunan seperti DVD_714240038 agar bisa diinstansiasi.
