@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC42E4-F79E-462F-9189-F6FA26C09273}|_P4_2_714240038\\_P4_2_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_p4_2_714240038\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC42E4-F79E-462F-9189-F6FA26C09273}|_P4_2_714240038\\_P4_2_714240038.csproj|solutionrelative:_p4_2_714240038\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC42E4-F79E-462F-9189-F6FA26C09273}|_P4_2_714240038\\_P4_2_714240038.csproj|c:\\users\\acer\\pbo-ii\\pertemuan 04\\tugas\\_p4_2_714240038\\_p4_2_714240038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC42E4-F79E-462F-9189-F6FA26C09273}|_P4_2_714240038\\_P4_2_714240038.csproj|solutionrelative:_p4_2_714240038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC42E4-F79E-462F-9189-F6FA26C09273}|_P4_2_714240038\\_P4_2_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_p4_2_714240038\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC42E4-F79E-462F-9189-F6FA26C09273}|_P4_2_714240038\\_P4_2_714240038.csproj|solutionrelative:_p4_2_714240038\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC42E4-F79E-462F-9189-F6FA26C09273}|_P4_2_714240038\\_P4_2_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_p4_2_714240038\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC42E4-F79E-462F-9189-F6FA26C09273}|_P4_2_714240038\\_P4_2_714240038.csproj|solutionrelative:_p4_2_714240038\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC42E4-F79E-462F-9189-F6FA26C09273}|_P4_2_714240038\\_P4_2_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_p4_2_714240038\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC42E4-F79E-462F-9189-F6FA26C09273}|_P4_2_714240038\\_P4_2_714240038.csproj|solutionrelative:_p4_2_714240038\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC42E4-F79E-462F-9189-F6FA26C09273}|_P4_2_714240038\\_P4_2_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_p4_2_714240038\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC42E4-F79E-462F-9189-F6FA26C09273}|_P4_2_714240038\\_P4_2_714240038.csproj|solutionrelative:_p4_2_714240038\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constructor.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_P4_2_714240038\\Constructor.cs",
+              "RelativeDocumentMoniker": "_P4_2_714240038\\Constructor.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_P4_2_714240038\\Constructor.cs",
+              "RelativeToolTip": "_P4_2_714240038\\Constructor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:36:57.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Polymorphism.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_P4_2_714240038\\Polymorphism.cs",
+              "RelativeDocumentMoniker": "_P4_2_714240038\\Polymorphism.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_P4_2_714240038\\Polymorphism.cs",
+              "RelativeToolTip": "_P4_2_714240038\\Polymorphism.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:36:29.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inheritance.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_P4_2_714240038\\Inheritance.cs",
+              "RelativeDocumentMoniker": "_P4_2_714240038\\Inheritance.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_P4_2_714240038\\Inheritance.cs",
+              "RelativeToolTip": "_P4_2_714240038\\Inheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:35:59.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Encapsulation.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_P4_2_714240038\\Encapsulation.cs",
+              "RelativeDocumentMoniker": "_P4_2_714240038\\Encapsulation.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_P4_2_714240038\\Encapsulation.cs",
+              "RelativeToolTip": "_P4_2_714240038\\Encapsulation.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:35:25.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Abstraction.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_P4_2_714240038\\Abstraction.cs",
+              "RelativeDocumentMoniker": "_P4_2_714240038\\Abstraction.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_P4_2_714240038\\Abstraction.cs",
+              "RelativeToolTip": "_P4_2_714240038\\Abstraction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:34:45.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_P4_2_714240038\\Program.cs",
+              "RelativeDocumentMoniker": "_P4_2_714240038\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 04\\Tugas\\_P4_2_714240038\\_P4_2_714240038\\Program.cs",
+              "RelativeToolTip": "_P4_2_714240038\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:17:19.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
