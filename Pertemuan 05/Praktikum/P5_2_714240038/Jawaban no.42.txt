@@ -1,0 +1,3 @@
+
+
+42.Masalahnya ada pada variabel outputText — variabel ini digunakan di beberapa method (DisplayButton_Click, DateOption_CheckedChanged, TimeOption_CheckedChanged) tetapi tidak pernah dideklarasikan sebelumnya di dalam kelas ChildForm

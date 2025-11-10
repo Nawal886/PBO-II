@@ -1,0 +1,12 @@
+C:\source\repos\P5_2_714240038\P5_2_714240038\bin\Debug\P5_2_714240038.exe.config
+C:\source\repos\P5_2_714240038\P5_2_714240038\bin\Debug\P5_2_714240038.exe
+C:\source\repos\P5_2_714240038\P5_2_714240038\bin\Debug\P5_2_714240038.pdb
+C:\source\repos\P5_2_714240038\P5_2_714240038\obj\Debug\P5_2_714240038.csproj.AssemblyReference.cache
+C:\source\repos\P5_2_714240038\P5_2_714240038\obj\Debug\P5_2_714240038.ChildForm.resources
+C:\source\repos\P5_2_714240038\P5_2_714240038\obj\Debug\P5_2_714240038.ParentForm.resources
+C:\source\repos\P5_2_714240038\P5_2_714240038\obj\Debug\P5_2_714240038.Properties.Resources.resources
+C:\source\repos\P5_2_714240038\P5_2_714240038\obj\Debug\P5_2_714240038.csproj.GenerateResource.cache
+C:\source\repos\P5_2_714240038\P5_2_714240038\obj\Debug\P5_2_714240038.csproj.CoreCompileInputs.cache
+C:\source\repos\P5_2_714240038\P5_2_714240038\obj\Debug\P5_2_714240038.exe
+C:\source\repos\P5_2_714240038\P5_2_714240038\obj\Debug\P5_2_714240038.pdb
+C:\source\repos\P5_2_714240038\P5_2_714240038\obj\Debug\P5_2_714240038.exe.config
