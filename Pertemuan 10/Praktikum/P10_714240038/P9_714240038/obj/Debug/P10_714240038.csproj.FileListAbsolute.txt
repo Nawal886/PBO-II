@@ -1,0 +1,84 @@
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\P9_714240038.exe.config
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\P9_714240038.exe
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\P9_714240038.pdb
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\BouncyCastle.Cryptography.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\Google.Protobuf.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\K4os.Compression.LZ4.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\K4os.Hash.xxHash.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\MySql.Data.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.Buffers.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.IO.Pipelines.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.Memory.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.Numerics.Vectors.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\ZstdSharp.dll
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\BouncyCastle.Cryptography.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\Google.Protobuf.pdb
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\Google.Protobuf.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\K4os.Compression.LZ4.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\K4os.Hash.xxHash.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\MySql.Data.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.Buffers.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.IO.Pipelines.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.Memory.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.Numerics.Vectors.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\source\repos\P10_714240038\P9_714240038\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\source\repos\P10_714240038\P9_714240038\obj\Debug\P10_714240038.csproj.AssemblyReference.cache
+C:\source\repos\P10_714240038\P9_714240038\obj\Debug\P9_714240038.exe.config
+C:\source\repos\P10_714240038\P9_714240038\obj\Debug\P9_714240038.Form1.resources
+C:\source\repos\P10_714240038\P9_714240038\obj\Debug\P9_714240038.Properties.Resources.resources
+C:\source\repos\P10_714240038\P9_714240038\obj\Debug\P10_714240038.csproj.GenerateResource.cache
+C:\source\repos\P10_714240038\P9_714240038\obj\Debug\P10_714240038.csproj.CoreCompileInputs.cache
+C:\source\repos\P10_714240038\P9_714240038\obj\Debug\P10_7142.938656A1.Up2Date
+C:\source\repos\P10_714240038\P9_714240038\obj\Debug\P9_714240038.exe
+C:\source\repos\P10_714240038\P9_714240038\obj\Debug\P9_714240038.pdb
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\P9_714240038.exe.config
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\P9_714240038.exe
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\P9_714240038.pdb
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\MySql.Data.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.Buffers.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.Memory.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\ZstdSharp.dll
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\Google.Protobuf.pdb
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\MySql.Data.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.Buffers.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.Memory.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\obj\Debug\P10_714240038.csproj.AssemblyReference.cache
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\obj\Debug\P9_714240038.exe.config
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\obj\Debug\P9_714240038.Form1.resources
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\obj\Debug\P9_714240038.Properties.Resources.resources
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\obj\Debug\P10_714240038.csproj.GenerateResource.cache
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\obj\Debug\P10_714240038.csproj.CoreCompileInputs.cache
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\obj\Debug\P10_7142.938656A1.Up2Date
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\obj\Debug\P9_714240038.exe
+C:\Users\Acer\PBO-II\Pertemuan 10\Praktikum\P10_714240038\P9_714240038\obj\Debug\P9_714240038.pdb

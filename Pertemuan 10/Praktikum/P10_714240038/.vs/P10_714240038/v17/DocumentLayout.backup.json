@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDD64F8-B39B-4998-9B59-826A4DF65578}|P9_714240038\\P10_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\p9_714240038\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDD64F8-B39B-4998-9B59-826A4DF65578}|P9_714240038\\P10_714240038.csproj|solutionrelative:p9_714240038\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDD64F8-B39B-4998-9B59-826A4DF65578}|P9_714240038\\P10_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\p9_714240038\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDD64F8-B39B-4998-9B59-826A4DF65578}|P9_714240038\\P10_714240038.csproj|solutionrelative:p9_714240038\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDD64F8-B39B-4998-9B59-826A4DF65578}|P9_714240038\\P10_714240038.csproj|c:\\users\\acer\\pbo-ii\\pertemuan 10\\praktikum\\p10_714240038\\p9_714240038\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDD64F8-B39B-4998-9B59-826A4DF65578}|P9_714240038\\P10_714240038.csproj|solutionrelative:p9_714240038\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDD64F8-B39B-4998-9B59-826A4DF65578}|P9_714240038\\P10_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\p9_714240038\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDD64F8-B39B-4998-9B59-826A4DF65578}|P9_714240038\\P10_714240038.csproj|solutionrelative:p9_714240038\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDD64F8-B39B-4998-9B59-826A4DF65578}|P9_714240038\\P10_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\p9_714240038\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FDD64F8-B39B-4998-9B59-826A4DF65578}|P9_714240038\\P10_714240038.csproj|solutionrelative:p9_714240038\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\P9_714240038\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714240038\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\P9_714240038\\View\\Form1.cs [Design]",
+              "RelativeToolTip": "P9_714240038\\View\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:29:32.846Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\P9_714240038\\Controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P9_714240038\\Controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\P9_714240038\\Controller\\Koneksi.cs",
+              "RelativeToolTip": "P9_714240038\\Controller\\Koneksi.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:29:36.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\P9_714240038\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714240038\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\P9_714240038\\View\\Form1.cs",
+              "RelativeToolTip": "P9_714240038\\View\\Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAnwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:57:16.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "M_mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\P9_714240038\\Model\\M_mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714240038\\Model\\M_mahasiswa.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\P9_714240038\\Model\\M_mahasiswa.cs",
+              "RelativeToolTip": "P9_714240038\\Model\\M_mahasiswa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:37:18.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\P9_714240038\\Controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714240038\\Controller\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 10\\Praktikum\\P10_714240038\\P9_714240038\\Controller\\Mahasiswa.cs",
+              "RelativeToolTip": "P9_714240038\\Controller\\Mahasiswa.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwFsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:46:16.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
