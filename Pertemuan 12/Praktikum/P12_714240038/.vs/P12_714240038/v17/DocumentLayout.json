@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|c:\\users\\acer\\pbo-ii\\pertemuan 12\\praktikum\\p12_714240038\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|c:\\users\\acer\\pbo-ii\\pertemuan 12\\praktikum\\p12_714240038\\controller\\ceklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:controller\\ceklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|c:\\users\\acer\\pbo-ii\\pertemuan 12\\praktikum\\p12_714240038\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|c:\\users\\acer\\pbo-ii\\pertemuan 12\\praktikum\\p12_714240038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|c:\\users\\acer\\pbo-ii\\pertemuan 12\\praktikum\\p12_714240038\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|c:\\users\\acer\\pbo-ii\\pertemuan 12\\praktikum\\p12_714240038\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|c:\\users\\acer\\pbo-ii\\pertemuan 12\\praktikum\\p12_714240038\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|c:\\users\\acer\\pbo-ii\\pertemuan 12\\praktikum\\p12_714240038\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\windows form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:windows form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\model\\m_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:model\\m_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\model\\m_transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:model\\m_transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P12_714240038.csproj|solutionrelative:controller\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\FormLogin.cs",
+              "RelativeDocumentMoniker": "view\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\FormLogin.cs",
+              "RelativeToolTip": "view\\FormLogin.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:57:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CekLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\CekLogin.cs",
+              "RelativeDocumentMoniker": "controller\\CekLogin.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\CekLogin.cs",
+              "RelativeToolTip": "controller\\CekLogin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:54:21.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\FormLogin.cs",
+              "RelativeDocumentMoniker": "view\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\FormLogin.cs [Design]",
+              "RelativeToolTip": "view\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:43:01.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\ParentForm.cs",
+              "RelativeToolTip": "view\\ParentForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAnwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:42:02.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:40:19.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\StartUp.cs",
+              "RelativeDocumentMoniker": "view\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\StartUp.cs",
+              "RelativeToolTip": "view\\StartUp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:39:05.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\StartUp.cs",
+              "RelativeDocumentMoniker": "view\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\StartUp.cs [Design]",
+              "RelativeToolTip": "view\\StartUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:32:46.443Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\Koneksi.cs",
+              "RelativeToolTip": "controller\\Koneksi.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:27:29.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\FormNilai.cs [Design]",
+              "RelativeToolTip": "view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:27:16.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-05T02:30:16.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormBarang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\FormBarang.cs",
+              "RelativeDocumentMoniker": "view\\FormBarang.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\FormBarang.cs [Design]",
+              "RelativeToolTip": "view\\FormBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:27:16.726Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:27:12.099Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-05T02:30:17.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormTransaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\FormTransaksi.cs",
+              "RelativeDocumentMoniker": "view\\FormTransaksi.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\FormTransaksi.cs [Design]",
+              "RelativeToolTip": "view\\FormTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:27:15.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:27:17.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Windows Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\Windows Form.cs",
+              "RelativeDocumentMoniker": "Windows Form.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\Windows Form.cs [Design]",
+              "RelativeToolTip": "Windows Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:29:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "M_barang.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\model\\M_barang.cs",
+              "RelativeDocumentMoniker": "model\\M_barang.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\model\\M_barang.cs",
+              "RelativeToolTip": "model\\M_barang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:27:23.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "M_nilai.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\model\\M_nilai.cs",
+              "RelativeDocumentMoniker": "model\\M_nilai.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\model\\M_nilai.cs",
+              "RelativeToolTip": "model\\M_nilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:27:25.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "M_transaksi.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\model\\M_transaksi.cs",
+              "RelativeDocumentMoniker": "model\\M_transaksi.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\model\\M_transaksi.cs",
+              "RelativeToolTip": "model\\M_transaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:27:25.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "controller\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "controller\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:27:29.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Nilai.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\Nilai.cs",
+              "RelativeDocumentMoniker": "controller\\Nilai.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\Nilai.cs",
+              "RelativeToolTip": "controller\\Nilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:27:30.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Transaksi.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\Transaksi.cs",
+              "RelativeDocumentMoniker": "controller\\Transaksi.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 12\\Praktikum\\P12_714240038\\controller\\Transaksi.cs",
+              "RelativeToolTip": "controller\\Transaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:27:31.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

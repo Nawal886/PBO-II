@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|c:\\users\\acer\\pbo-ii\\pertemuan 11\\tugas\\p9_714240061\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|solutionrelative:view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|solutionrelative:view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|solutionrelative:view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|solutionrelative:view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|solutionrelative:controller\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|solutionrelative:controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|solutionrelative:controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|solutionrelative:controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3BA73-6130-40DD-90D3-902C4F418827}|P9_714240061.csproj|solutionrelative:controller\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:01:35.889Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTransaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\view\\FormTransaksi.cs",
+              "RelativeDocumentMoniker": "view\\FormTransaksi.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\PemrogramanIV_714240061-main\\PemrogramanIV_714240061-main\\pertemuan11\\Tugas\\P9_714240061\\view\\FormTransaksi.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\PemrogramanIV_714240061-main\\PemrogramanIV_714240061-main\\pertemuan11\\Tugas\\P9_714240061\\view\\FormTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:01:35.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\PemrogramanIV_714240061-main\\PemrogramanIV_714240061-main\\pertemuan11\\Tugas\\P9_714240061\\view\\FormNilai.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\PemrogramanIV_714240061-main\\PemrogramanIV_714240061-main\\pertemuan11\\Tugas\\P9_714240061\\view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:01:34.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormBarang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\view\\FormBarang.cs",
+              "RelativeDocumentMoniker": "view\\FormBarang.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\PemrogramanIV_714240061-main\\PemrogramanIV_714240061-main\\pertemuan11\\Tugas\\P9_714240061\\view\\FormBarang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\PemrogramanIV_714240061-main\\PemrogramanIV_714240061-main\\pertemuan11\\Tugas\\P9_714240061\\view\\FormBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:01:33.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\PemrogramanIV_714240061-main\\PemrogramanIV_714240061-main\\pertemuan11\\Tugas\\P9_714240061\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\PemrogramanIV_714240061-main\\PemrogramanIV_714240061-main\\pertemuan11\\Tugas\\P9_714240061\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:01:32.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaksi.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\Transaksi.cs",
+              "RelativeDocumentMoniker": "controller\\Transaksi.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\Transaksi.cs",
+              "RelativeToolTip": "controller\\Transaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:01:29.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nilai.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\Nilai.cs",
+              "RelativeDocumentMoniker": "controller\\Nilai.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\Nilai.cs",
+              "RelativeToolTip": "controller\\Nilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:01:28.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "controller\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "controller\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:01:27.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\Koneksi.cs",
+              "RelativeToolTip": "controller\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:01:27.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\Barang.cs",
+              "RelativeDocumentMoniker": "controller\\Barang.cs",
+              "ToolTip": "C:\\Users\\Acer\\PBO-II\\Pertemuan 11\\Tugas\\P9_714240061\\controller\\Barang.cs",
+              "RelativeToolTip": "controller\\Barang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:01:26.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
